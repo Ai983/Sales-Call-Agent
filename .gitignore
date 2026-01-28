@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+.venv311/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Editor / AI tools
+.qodo/
+.zencoder/
+.zenflow/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime outputs
+outputs/
+*.log
+run.out
+run_openai.out
