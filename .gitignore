@@ -31,3 +31,15 @@ outputs/
 *.log
 run.out
 run_openai.out
+
+
+# Audio inputs & runtime artifacts
+inputs/
+uploads/
+outputs/
+
+# Normalized / temp audio
+*.wav
+*.aac
+*.mp3
+*.m4a
