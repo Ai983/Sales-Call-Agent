@@ -43,3 +43,5 @@ outputs/
 *.aac
 *.mp3
 *.m4a
+web_ui/node_modules/
+node_modules/
