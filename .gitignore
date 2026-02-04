@@ -43,5 +43,14 @@ outputs/
 *.aac
 *.mp3
 *.m4a
-web_ui/node_modules/
+
+# Node / frontend
 node_modules/
+# Next.js build output
+web_ui/.next/
+web_ui/out/
+web_ui/.turbo/
+web_ui/node_modules/
+
+
+
